@@ -22,3 +22,5 @@ git clone https://github.com/jerrykuku/luci-app-argon-config package/luci-app-ar
 
 #添加额外非必须软件包
 # git clone https://github.com/kiddin9/openwrt-packages package
+git clone https://github.com/EOYOHOO/UA2F.git package/UA2F
+git clone https://github.com/EOYOHOO/rkp-ipid.git package/rkp-ipid
